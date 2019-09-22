@@ -20,7 +20,6 @@ public class Hello {
          return 2;
      else if (score> 100 && score<500)
          return 3;
-     else
          return 4;
 }
 }
